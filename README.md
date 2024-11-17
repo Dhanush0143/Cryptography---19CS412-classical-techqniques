@@ -101,14 +101,7 @@ int main() {
 ## OUTPUT:
 ### Simulating Caesar Cipher
 
-![image](https://github.com/user-attachments/assets/f5b6eebc-3475-4a52-8fb8-7771e0c0e661)
-
-
-Input : RAGUL
-
-Encrypted Message : UDJXO 
-
-Decrypted Message : RAGUL
+![image](https://github.com/user-attachments/assets/6ec5ac08-147f-4ce7-b519-2066d767a7ae)
 
 ## RESULT:
 The Caeser Cipher program is executed successfully.
@@ -371,8 +364,6 @@ int main() {
 ## OUTPUT:
 
 
-![image](https://github.com/user-attachments/assets/56b75c08-d937-44f7-9c70-7ad0ebbb0ca1)
-
 
 ## RESULT:
 The Playfair Cipher program is executed successfully
@@ -506,7 +497,9 @@ int main() {
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/17dc1df2-b7f1-4ac5-a7e6-bed2dc14a84f)
+![image](https://github.com/user-attachments/assets/a057df04-85d3-40b6-9b48-c19506ab885c)
+
+
 
 
 ## RESULT:
@@ -619,7 +612,6 @@ void decipher() {
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/1d66b2f6-75e5-4eab-b877-f53e06c3a997)
 
 
 
@@ -790,7 +782,6 @@ void decrypt(char str[], int rails) {
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/7a3ab6b4-ed53-4a09-a7d7-27dc2b8b3d21)
 
 
 
